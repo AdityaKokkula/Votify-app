@@ -1,1 +1,0 @@
-# Online-Voting-System_Mini-Project
